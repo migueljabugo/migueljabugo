@@ -1,3 +1,19 @@
+### Miguel Ángel González Hernández
+
+- 🔭 Estoy trabajando en la actualidad en Atrebo S.L.
+- 📫 Contacto: migueljabugo@gmail.com
+- 📍 Localización: Sevilla.
+
+
+## Lenguajes
+- JavaScript
+- Java
+- C#
+- C
+- Phyton
+- Otros.
+
+
 <!--
 ### Hi there 👋
 
