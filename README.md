@@ -1,4 +1,9 @@
-### Miguel Ángel González Hernández
+# Miguel Ángel González Hernández
+
+##### Full stack programmer
+
+> Programmer with experience working with several programming languages, databases and frameworks.
+> My experience in different companies and projects has given me the opportunity to work for clients such as Telefónica, Telenor, Turismo de Andalucía, Turismo de la Comunidad Valenciana, Royal Canin, Pans Granier and others.
 
 - 🔭 I’m currently working on Atrebo S.L.
 - 🌱 I’m currently learning Express js and react js
@@ -6,29 +11,31 @@
 - 📍 Location: Sevilla.
 
 
-## Languajes
+### Programming languages
 - JavaScript
 - Java
 - C#
-- C
 - Phyton
-- Otros.
+- PHP
+- C
 
 
-<!--
-### Hi there 👋
+| Technologies | Databases | Mobile development |
+| ------ | ------ | ------ |
+| React js | SQL Server |  |
+| Express js | PostgreSQL | Android |
+| ASP .Net Core | MySql | IOS |
+| Docker |  |  |
+| jQuery |  |  |
+| ElasticSearch |  |  |
+| HTML |  |  |
+| css |  |  |
+| Bootstrap |  |  |
+| Maven |  |  |
+| Gradel |  |  |
+| Django |  |  |
+| Hibernate |  |  |
+| Wordpress |  |  |
+| Liferay |  |  |
+| Unity |  |  |
 
-
-**migueljabugo/migueljabugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
