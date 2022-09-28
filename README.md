@@ -22,7 +22,7 @@
 
 | Technologies | Databases | Mobile development |
 | ------ | ------ | ------ |
-| React js | SQL Server |  |
+| React js | SQL Server | Ionic |
 | Express js | PostgreSQL | Android |
 | ASP .Net Core | MySql | IOS |
 | Docker |  |  |
