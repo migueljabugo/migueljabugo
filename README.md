@@ -11,31 +11,22 @@
 - 📍 Location: Sevilla.
 
 
-### Programming languages
-- JavaScript
-- Java
-- C#
-- Phyton
-- PHP
-- C
-
-
-| Technologies | Databases | Mobile development |
-| ------ | ------ | ------ |
-| React js | SQL Server | Ionic |
-| Express js | PostgreSQL | Android |
-| ASP .Net Core | MySql | IOS |
-| Docker |  |  |
-| jQuery |  |  |
-| ElasticSearch |  |  |
-| HTML |  |  |
-| css |  |  |
-| Bootstrap |  |  |
-| Maven |  |  |
-| Gradel |  |  |
-| Django |  |  |
-| Hibernate |  |  |
-| Wordpress |  |  |
-| Liferay |  |  |
-| Unity |  |  |
+| Programming languages | Technologies | Databases | Mobile development |
+| ------ | ------ | ------ | ------ |
+| JavaScript | React js | SQL Server | Ionic |
+| C# | Express js | PostgreSQL | Android |
+| Java | ASP .Net Core | MySql | IOS |
+| Phyton | Docker |  | xamarin |
+| PHP | jQuery |  |  |
+| C++ | ElasticSearch |  |  |
+|  | HTML |  |  |
+|  | css |  |  |
+|  | Bootstrap |  |  |
+|  | Maven |  |  |
+|  | Gradel |  |  |
+|  | Django |  |  |
+|  | Hibernate |  |  |
+|  | Wordpress |  |  |
+|  | Liferay |  |  |
+|  | Unity |  |  |
 
