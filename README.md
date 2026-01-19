@@ -13,7 +13,6 @@
 - 🔭 I’m currently working on Atrebo S.L.
 - 🌱 I’m currently learning Angular
 - 📫 Contact: migueljabugo@gmail.com
-- 🖥️ [Site web](https://miguelangelgonzalez.vercel.app)
 - 📍 Location: Sevilla.
 
 
