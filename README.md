@@ -11,7 +11,7 @@
 > My experience in different companies and projects has given me the opportunity to work for clients such as Telefónica, Telenor, Turismo de Andalucía, Turismo de la Comunidad Valenciana, Royal Canin, Pans Granier and others.
 
 - 🔭 I’m currently working on Atrebo S.L.
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Angular
 - 📫 Contact: migueljabugo@gmail.com
 - 🖥️ [Site web](https://miguelangelgonzalez.vercel.app)
 - 📍 Location: Sevilla.
